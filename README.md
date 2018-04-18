@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi rizky.. 
+
+rizky disini, like introvert
